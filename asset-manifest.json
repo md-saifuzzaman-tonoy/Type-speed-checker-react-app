@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/type-speed-checker-react-app/static/css/main.835cf1a2.css",
-    "main.js": "/type-speed-checker-react-app/static/js/main.3a6746a2.js",
+    "main.js": "/type-speed-checker-react-app/static/js/main.3ff2d30e.js",
     "index.html": "/type-speed-checker-react-app/index.html",
     "main.835cf1a2.css.map": "/type-speed-checker-react-app/static/css/main.835cf1a2.css.map",
-    "main.3a6746a2.js.map": "/type-speed-checker-react-app/static/js/main.3a6746a2.js.map"
+    "main.3ff2d30e.js.map": "/type-speed-checker-react-app/static/js/main.3ff2d30e.js.map"
   },
   "entrypoints": [
     "static/css/main.835cf1a2.css",
-    "static/js/main.3a6746a2.js"
+    "static/js/main.3ff2d30e.js"
   ]
 }
